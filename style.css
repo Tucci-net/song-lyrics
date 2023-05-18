@@ -6,6 +6,8 @@
    --color1: #1c191a;
    --color2: #efefef;
    --color3: #4b4b4b;
+   --primColor:#aefb09;
+   --secColor:#004a9e;
    --headingFont: "Underdog", cursive;
    --bodyFont: "Quicksand", sans-serif;
 }
@@ -20,18 +22,18 @@ p {
 }
 a:link {
    text-decoration: none;
-   color: var(--color3);
+   
 }
-a:visited {
-   color: var(--color1);
+a{
+  color:var(--primColor); 
 }
 a:hover {
-   background-color: #004a9e;
-   color: #aefb09;
+   background-color: var(--primColor);
+   color: var(--secColor);
 }
 
 main {
-   background: var(--color2);
+   background: var(--secColor);
    width: 50%;
    margin: 0 auto 0 auto;
    margin-top: 0px;
