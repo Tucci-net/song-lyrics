@@ -1,13 +1,8 @@
-# Web Starter
+# Lyrics for NOFX *It's My Job to Keep Punk Rock Elite*
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/web-starter)
+> This aint' Your Fuckin Music Industry
 
-
-> Computers are dumb. Humans make them smart.
-
-Starter (boilerplate) for all future projects.
-
-## Why Does This Exist?
-* Don't with blank files
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+** Citations
+*[Genius](https://genius.com/Nofx-its-my-job-to-keep-punk-rock-elite-lyrics)
+*[G Fonts](https://fonts.google.com)
+*[Our Lord and Savior Fat Mike]
