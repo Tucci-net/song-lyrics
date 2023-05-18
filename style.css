@@ -41,7 +41,7 @@ main {
    padding: 10px;
 }
 html {
-   background: var(--color1);
+   background-image:GrungeBG.jpg;
 }
 audio {
    width: 100%;
