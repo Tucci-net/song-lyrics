@@ -1,3 +1,46 @@
-body {
-    background: rgb(0, 0, 0);
+/* Variables from Style Tile */
+
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Underdog&display=swap");
+
+:root {
+   --color1: #1c191a;
+   --color2: #efefef;
+   --color3: #4b4b4b;
+   --headingFont: "Underdog", cursive;
+   --bodyFont: "Quicksand", sans-serif;
+}
+
+h1 {
+   font-family: var(--headingFont);
+}
+p {
+   font-family: var(--bodyFont);
+   font-size: 1.2em;
+   line-height: 1.5em;
+}
+a:link {
+   text-decoration: none;
+   color: var(--color3);
+}
+a:visited {
+   color: var(--color1);
+}
+a:hover {
+   background-color: #004a9e;
+   color: #aefb09;
+}
+
+main {
+   background: var(--color2);
+   width: 50%;
+   margin: 0 auto 0 auto;
+   margin-top: 0px;
+   margin-top: 90px;
+   padding: 10px;
+}
+html {
+   background: var(--color1);
+}
+audio {
+   width: 100%;
 }
